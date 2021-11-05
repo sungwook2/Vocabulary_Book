@@ -1,0 +1,138 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    }
+  ],
+  "words": [
+    {
+      "word": {
+        "id": 1,
+        "day": 1,
+        "eng": "book",
+        "kor": "책",
+        "isDone": false
+      }
+    },
+    {
+      "word": {
+        "id": 2,
+        "day": 1,
+        "eng": "apple",
+        "kor": "사과",
+        "isDone": false
+      }
+    },
+    {
+      "word": {
+        "id": 3,
+        "day": 2,
+        "eng": "car",
+        "kor": "자동차",
+        "isDone": false
+      }
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "i,sDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "Omelet",
+      "kor": "오믈렛",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "2",
+      "eng": "Amazon",
+      "kor": "아마존",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "1",
+      "eng": "glass",
+      "kor": "유리",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "5",
+      "eng": "can",
+      "kor": "할 수 있다",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "4",
+      "eng": "Must",
+      "kor": "해야만 한다",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "1",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "6",
+      "eng": "Image",
+      "kor": "이미지",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "7",
+      "eng": "Orange",
+      "kor": "오렌지",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "1",
+      "eng": "タイプライター",
+      "kor": "타자기",
+      "isDone": false,
+      "id": 15
+    }
+  ]
+}
